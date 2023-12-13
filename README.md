@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himansu Didwania.
 - 👀 I’m interested in Machine Learning, football, metal music, and fantasy novel series Cosmere.
-- 💼 I am part of ML team at AI4Bharat.
+- 💼 I am building Full Stack GenAI at sarvam.ai.
 - 💞️ I’m looking to collaborate on machine learning problems.
 - 📫 You can reach me at hdidwania1997@gmail.com.
 
